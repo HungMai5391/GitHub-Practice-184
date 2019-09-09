@@ -55,6 +55,7 @@
 | Antonio Garcia | AntonioAG97| <https://antonioag97.github.io/GitHub-Practice-AG/> |
 | Leah Miller | lnm5220 | <https://lnm5220.github.io/Stat184Assignment1/> |
 | Vydeepthi Dhulipalla | vydeepthi| <https://vydeepthi.github.io/Stat184Assignment1/> |
+| Marina Mautner Wizentier | marinawiz | <https://marinawiz.github.io/mqm6104/> |
 <br>
 
 
